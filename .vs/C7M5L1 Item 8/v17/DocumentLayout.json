@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jevge\\Downloads\\Display-the-Little-Lemon-available-booking-times\\C7M5L1 Item 8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jevge\\Downloads\\Display-the-Little-Lemon-available-booking-times\\C7M5L1 Item 8\\restaurant\\templates\\bookings.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:restaurant\\templates\\bookings.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jevge\\Downloads\\Display-the-Little-Lemon-available-booking-times\\C7M5L1 Item 8\\restaurant\\templates\\book.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:restaurant\\templates\\book.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jevge\\Downloads\\Display-the-Little-Lemon-available-booking-times\\C7M5L1 Item 8\\littlelemon\\settings.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:littlelemon\\settings.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jevge\\Downloads\\Display-the-Little-Lemon-available-booking-times\\C7M5L1 Item 8\\restaurant\\views.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:restaurant\\views.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "bookings.html",
+              "DocumentMoniker": "C:\\Users\\jevge\\Downloads\\Display-the-Little-Lemon-available-booking-times\\C7M5L1 Item 8\\restaurant\\templates\\bookings.html",
+              "RelativeDocumentMoniker": "restaurant\\templates\\bookings.html",
+              "ToolTip": "C:\\Users\\jevge\\Downloads\\Display-the-Little-Lemon-available-booking-times\\C7M5L1 Item 8\\restaurant\\templates\\bookings.html",
+              "RelativeToolTip": "restaurant\\templates\\bookings.html",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAACQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-02-09T09:42:47.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "book.html",
+              "DocumentMoniker": "C:\\Users\\jevge\\Downloads\\Display-the-Little-Lemon-available-booking-times\\C7M5L1 Item 8\\restaurant\\templates\\book.html",
+              "RelativeDocumentMoniker": "restaurant\\templates\\book.html",
+              "ToolTip": "C:\\Users\\jevge\\Downloads\\Display-the-Little-Lemon-available-booking-times\\C7M5L1 Item 8\\restaurant\\templates\\book.html",
+              "RelativeToolTip": "restaurant\\templates\\book.html",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAYwF0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-02-09T07:19:09.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "views.py",
+              "DocumentMoniker": "C:\\Users\\jevge\\Downloads\\Display-the-Little-Lemon-available-booking-times\\C7M5L1 Item 8\\restaurant\\views.py",
+              "RelativeDocumentMoniker": "restaurant\\views.py",
+              "ToolTip": "C:\\Users\\jevge\\Downloads\\Display-the-Little-Lemon-available-booking-times\\C7M5L1 Item 8\\restaurant\\views.py",
+              "RelativeToolTip": "restaurant\\views.py",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAowEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-02-09T07:15:23.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "settings.py",
+              "DocumentMoniker": "C:\\Users\\jevge\\Downloads\\Display-the-Little-Lemon-available-booking-times\\C7M5L1 Item 8\\littlelemon\\settings.py",
+              "RelativeDocumentMoniker": "littlelemon\\settings.py",
+              "ToolTip": "C:\\Users\\jevge\\Downloads\\Display-the-Little-Lemon-available-booking-times\\C7M5L1 Item 8\\littlelemon\\settings.py",
+              "RelativeToolTip": "littlelemon\\settings.py",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAUwFUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-02-09T07:04:17.186Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
